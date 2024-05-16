@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore built output
+dist/
+
+# Ignore any OS-specific files or directories
+.DS_Store
+Thumbs.db
+
+# Ignore out folder
+out/
